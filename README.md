@@ -1,16 +1,12 @@
-# flutterfire
+# Flutter Ecommerce Starter UI
 
-A new Flutter project.
+Flutter ecommerce starter ui app with Drawer menu, Carousel and Horizontal List View 
 
-## Getting Started
+## Carousel Demo
 
-This project is a starting point for a Flutter application.
+[Carousel Demo](https://github.com/edocbuhtig/flutter-ecommerce-starter-ui/blob/master/screenshots/carousel-flutter-ui.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Drawer & Scroll List View Demo
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Drawer & Scroll List View Demo](https://github.com/edocbuhtig/flutter-ecommerce-starter-ui/blob/master/screenshots/drawer-flutter-ui.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
